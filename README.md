@@ -3,7 +3,9 @@
 A simple web application to track job applications and their status.
 
 ## 🔗 Live Demo
-👉 [Click here to view the project](https://Prakruthiii.github.io/job-application-tracker/)
+
+[View Live Project](https://prakruthiiii.github.io/job-application-tracker/)
+
 
 
 ## 🚀 Features
